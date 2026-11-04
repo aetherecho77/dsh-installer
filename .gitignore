@@ -1,0 +1,10 @@
+# 官方安装包不进仓库
+setup*.exe
+DSH-Setup.exe
+
+# 私有离线插件包
+plugins/*.tgz
+
+# 运行产物
+*.log
+install-dsh-report-*.txt
